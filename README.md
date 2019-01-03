@@ -1,6 +1,8 @@
 # Point_of_Sale
 Simple point of sale application to enter teller username, password and enter items and quantities and calculate total amount to be paid.
 
+Python
+
 1. func1 login: get username(only alphabets) and password(only digits)
 2. show items and price. 
 variable length arguments - enter shopping items
